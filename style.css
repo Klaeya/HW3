@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    color: orange;
+    background-color: black;
+}
+
+
+h3 {
+    color: black;
+}
+
+.A {
+    border: 5px solid orange;
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+    padding: 10px 10px 20px 30px;
+    background-color: white;
+}
+
+.B {
+    text-align: center;
+    }
+
+.C {
+    border: 5px solid orange;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px 10px 20px 30px;
+    color: black;
+    
+}
+
+.D {
+    text-align: center;
+    color: orange;
+    background-color: black;
+    font-family: cursive;
+}
+
+
+.image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
